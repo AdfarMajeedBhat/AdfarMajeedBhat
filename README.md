@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdfarMajeedBhat
-- 👀 I’m interested in ...Learning and team building
+- 👀 I’m interested in ...Learning new things and becoming a part of a supportive crew
 - 🌱 I’m currently learning ...Web Development
 - 💞️ I’m looking to collaborate on ...Web Dev Projects
 - 📫 How to reach me ...adfarmajeed.work@gmail.com
