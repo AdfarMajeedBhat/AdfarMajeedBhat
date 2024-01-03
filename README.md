@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdfarMajeedBhat
+- 👋 Hi, I’m @AdfarMajeed
 - 👀 I’m interested in ...Learning new things and becoming a part of a supportive crew
 - 🌱 I’m currently learning ...Web Development
 - 💞️ I’m looking to collaborate on ...Web Dev Projects
