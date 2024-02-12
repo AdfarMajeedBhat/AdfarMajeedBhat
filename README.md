@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdfarMajeed
-- 👀 I’m interested in ...Learning new things and becoming a part of a supportive crew
-- 🌱 I’m currently learning ...Web Development
-- 💞️ I’m looking to collaborate on ...Web Dev Projects
+- 👀 I’m looking for ...Internships or full time roles
+- 🌱 I’m currently learning ...Java | DSA | Web Development
 - 📫 How to reach me ...adfarmajeed.work@gmail.com
 
 <!---
