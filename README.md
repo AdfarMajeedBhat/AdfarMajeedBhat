@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @AdfarMajeed
-- 👀 I’m looking for ...Internships or full time roles
-- 🌱 I’m currently learning ...Java | DSA | Web Development
-- 📫 How to reach me ...adfarmajeed.work@gmail.com
+👋 Hi, I’m @AdfarMajeed
+
+🎓 MCA @ Jamia Millia Islamia
+
+💻 Java | DSA
+
+🤖 Exploring AI | Learning & Building
+
+📫 Reach me at ... adfarmajeed.work@gmail.com
 
 <!---
 AdfarMajeedBhat/AdfarMajeedBhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
